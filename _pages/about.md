@@ -16,4 +16,4 @@ I am passionate about research that can lead to downstream treatment options. I 
 
 
 In my free time I love to read, go for walks, and take care of my plants. I've added some pictures of my plants below 😊
-![]()
+![]("pothos1.jpg") ![]("succulent1.jpg") ![]("philodendron1.jpg") ![]("succulent2.jpg")
