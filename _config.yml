@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Bella Peckinpaugh"
-description              : &description "personal description"
+description              : &description "Lab Manager for the Cognitive and Affective Neuroscience Lab @ UNL"
 url                      : https://bellapeckinpaugh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bellapeckinpaugh/bellapeckinpaugh.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "bpeckinpaughlabphoto.jpeg"
   name             : "Bella Peckinpaugh"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Clinical psychology researcher examining depression transmission"
   location         : "Lincoln, NE"
   employer         : "University of Nebraska-Lincoln"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : https://canlab.unl.edu
+  email            : "ipeckinpaugh2@unl.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
