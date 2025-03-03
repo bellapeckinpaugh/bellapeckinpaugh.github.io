@@ -7,11 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![](https://github.com/bellapeckinpaugh/bellapeckinpaugh.github.io/tree/master/images/purduelogo.jpeg) 
-
-![](unllogo.png)
-
-<img src="https://github.com/bellapeckinpaugh/bellapeckinpaugh.github.io/tree/master/images/purduelogo.jpeg">
+<img src='/images/purduelogo.jpeg'>  <img src='/images/unllogo.jpeg'>
 
 Welcome, I am Bella! I am currently a Lab Manager in Maital Neta's [Cognitive and Affective Neuroscience Lab](https://canlab.unl.edu/) at the University of Nebraska-Lincoln. I graduated with a B.S. in Psychology from Purdue University. While at Purdue, I was in Dan Foti's [Psychophysiological Analysis of Cognition, Emotion, and Reward Lab](https://www.pacer-lab.com/) and Sean Lane's [Regulation of Emotion, Addiction, and Conflict Trajectory](https://reactlab.wixsite.com/reactlab)! 
 
@@ -21,4 +17,5 @@ I am passionate about research that can lead to downstream treatment options. I 
 
 
 In my free time I love to read, go for walks, and take care of my plants. I've added some pictures of my plants below 😊
-![]("pothos1.jpg") ![]("succulent1.jpg") ![]("philodendron1.jpg") ![]("succulent2.jpg")
+
+<img src='/images/pothos1.jpg'>  <img src='/images/succulent1.jpg'>  <img src='/images/philodendron1.jpg'>   <img src='/images/succulent2.jpg'>
