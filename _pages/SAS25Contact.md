@@ -1,13 +1,13 @@
 ---
-  title: "Contact Information"
-  output: github_document
-
+permalink: /SAS25Contact
+title: "SAS 2025 Contact Information"
+author_profile: true
 ---
 
-\
+
 
 ### Isabella (Bella) Peckinpaugh 
-<img src="bpeckinpaughlabphoto.jpeg" alt="Description of the image" width="25%">
+<img src="bpeckinpaughlabphoto.jpeg" width="25%">
 
 
 email: *ipeckinpaugh2@unl.edu* 
@@ -18,7 +18,7 @@ email: *ipeckinpaugh2@unl.edu*
 
 
 ### Maital Neta, PhD
-<img src="Neta_2016.jpg" alt="Description of the image" width="25%">
+<img src="Neta_2016.jpg"  width="25%">
 
 email: *maitalneta@unl.edu*
 
