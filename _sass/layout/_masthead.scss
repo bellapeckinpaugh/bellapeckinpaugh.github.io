@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
+  position: fixed;
   background: var(--global-bg-color);
   border-bottom: 1px solid var(--global-border-color);
   height: $masthead-height;
