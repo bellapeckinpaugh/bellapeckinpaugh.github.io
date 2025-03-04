@@ -7,7 +7,7 @@ author_profile: true
 
 
 ### Isabella (Bella) Peckinpaugh 
-<img src="bpeckinpaughlabphoto.jpeg" width="25%">
+<img src='/images/bpeckinpaughlabphoto.jpeg' width="25%">
 
 
 email: *ipeckinpaugh2@unl.edu* 
@@ -18,7 +18,7 @@ email: *ipeckinpaugh2@unl.edu*
 
 
 ### Maital Neta, PhD
-<img src="Neta_2016.jpg"  width="25%">
+<img src='/images/Neta_2016.jpg'  width="25%">
 
 email: *maitalneta@unl.edu*
 
