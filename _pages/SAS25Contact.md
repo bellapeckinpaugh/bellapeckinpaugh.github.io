@@ -16,7 +16,7 @@ email: *ipeckinpaugh2@unl.edu*
 2. Click **[here](https://x.com/B_Peckinpaugh)** to view my Twitter
 3. Click **[here](https://www.linkedin.com/in/bella-peckinpaugh/)** to view my LinkedIn
 
-*If you are on your phone, click **Follow** in the top right to see even more of my contact information*
+*If you are on your phone, click **Follow** in the top right to see even more of my contact information* <br>
 *If you are on your laptop, look to the left panel to seem even more of my contact information*
 
 
