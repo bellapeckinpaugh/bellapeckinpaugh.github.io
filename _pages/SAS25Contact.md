@@ -15,7 +15,9 @@ email: *ipeckinpaugh2@unl.edu*
 1. Click **[here](https://scholar.google.com/citations?user=p6of5nwAAAAJ&hl=en)** to view my Google Scholar
 2. Click **[here](https://x.com/B_Peckinpaugh)** to view my Twitter
 3. Click **[here](https://www.linkedin.com/in/bella-peckinpaugh/)** to view my LinkedIn
-4. Click **Follow** in the top right to see even more of my contact information
+
+*If you are on your phone, click **Follow** in the top right to see even more of my contact information*
+*If you are on your laptop, look to the left panel to seem even more of my contact information*
 
 
 ### Maital Neta, PhD
