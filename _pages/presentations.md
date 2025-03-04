@@ -1,8 +1,4 @@
 ---
-title: "publications"
-output: github_document
+title: "Presentations"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
