@@ -14,7 +14,7 @@ A Humphries`*`, **I Peckinpaugh**`*`, G Kupka, JR Blair, N Tottenham, M Neta
 <br>
 <br>
 # 2024 Publications
-## 1. Negative Emotion (dys)regulation Predicts Distorted Time Perception: Preliminary Experimental Evidence and Implications for Psychopathology
+## [1. Negative Emotion (dys)regulation Predicts Distorted Time Perception: Preliminary Experimental Evidence and Implications for Psychopathology](https://onlinelibrary.wiley.com/doi/full/10.1111/jopy.12988)
 SC Napolitano, **IK Peckinpaugh**, SP Lane <br>
 _Journal of Personality_
 ### Abstract <br>
@@ -30,8 +30,8 @@ Findings offer foundational evidence of NA and rumination's roles in time dilati
 <br>
 # 2023 Publications
 
-## 1. Perceived social support attenuates increased hostile reactions to traumatic threat <br>
-SC Napolitano, CE Balling, **I Peckinpaugh**, DB Samuel, SP Lane
+## [1. Perceived social support attenuates increased hostile reactions to traumatic threat](https://onlinelibrary.wiley.com/doi/abs/10.1002/jclp.23567) <br>
+SC Napolitano, CE Balling, **I Peckinpaugh**, DB Samuel, SP Lane <br>
 _Journal of Clinical Psychology_
 ### Abstract <br>
 **_Objective_** <br>
