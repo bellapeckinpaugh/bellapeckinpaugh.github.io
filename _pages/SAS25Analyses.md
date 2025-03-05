@@ -1,7 +1,6 @@
 ---
 permalink: /SAS25Analyses
 title: "SAS 2025 Analyses"
-output: github_document
 author_profile: TRUE
 ---
 
