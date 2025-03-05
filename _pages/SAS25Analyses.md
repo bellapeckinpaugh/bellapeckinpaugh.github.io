@@ -46,7 +46,7 @@ author_profile: TRUE
 
     ## Linear mixed model fit by REML. t-tests use Satterthwaite's method [
     ## lmerModLmerTest]
-    ## Formula: ERQCA.R ~ as.factor(risk_dummy) * Age_kid + sex_dummy + (1 |      kID)
+    ## Formula: ERQCA.R ~ risk_dummy * Age_kid + sex_dummy + (1 |      kID)
     ##    Data: long_data
     ## 
     ## REML criterion at convergence: 735.3
@@ -62,18 +62,12 @@ author_profile: TRUE
     ## Number of obs: 232, groups:  kID, 100
     ## 
     ## Fixed effects:
-    ##                                 Estimate Std. Error        df t value Pr(>|t|)
-    ## (Intercept)                      4.83082    0.42643 127.70630  11.329  < 2e-16
-    ## as.factor(risk_dummy)1          -1.72273    0.64954 163.26217  -2.652  0.00878
-    ## Age_kid                         -0.02003    0.03277 133.12627  -0.611  0.54202
-    ## sex_dummy                        0.07303    0.19275  83.43060   0.379  0.70575
-    ## as.factor(risk_dummy)1:Age_kid   0.11454    0.05113 166.48362   2.240  0.02639
-    ##                                   
-    ## (Intercept)                    ***
-    ## as.factor(risk_dummy)1         ** 
-    ## Age_kid                           
-    ## sex_dummy                         
-    ## as.factor(risk_dummy)1:Age_kid *  
+    ##                       Estimate Std. Error   df     t value  Pr(>|t|)
+    ## (Intercept)           4.83082    0.42643 127.70630  11.329  < 2e-16 ***
+    ## risk_dummy           -1.72273    0.64954 163.26217  -2.652  0.00878 **
+    ## Age_kid              -0.02003    0.03277 133.12627  -0.611  0.54202
+    ## sex_dummy             0.07303    0.19275  83.43060   0.379  0.70575
+    ## risk_dummy:Age_kid    0.11454    0.05113 166.48362   2.240  0.02639 *                                 
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
     ## 
@@ -137,13 +131,12 @@ author_profile: TRUE
 
 # Model 4
 
-\##(H6; exploratory) Directionality of the effects are such that risk
+## (H6; exploratory) Directionality of the effects are such that risk
 will predict future depression symptoms and future ER difficulties
 
     ## 
     ## Call:
-    ## lm(formula = RCADS.MD.T2 ~ RCADS.MD.T1 + as.factor(risk.T1) + 
-    ##     Age.T2, data = lag_data)
+    ## lm(formula = RCADS.MD.T2 ~ RCADS.MD.T1 + risk.T1 + Age.T2, data = lag_data)
     ## 
     ## Residuals:
     ##     Min      1Q  Median      3Q     Max 
@@ -153,7 +146,7 @@ will predict future depression symptoms and future ER difficulties
     ##                     Estimate Std. Error t value Pr(>|t|)    
     ## (Intercept)           3.6716     1.4404   2.549 0.013619 *  
     ## RCADS.MD.T1           0.4182     0.1012   4.132 0.000124 ***
-    ## as.factor(risk.T1)1   1.9239     0.8380   2.296 0.025514 *  
+    ## risk.T1               1.9239     0.8380   2.296 0.025514 *  
     ## Age.T2               -0.1550     0.1148  -1.351 0.182378    
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
@@ -169,7 +162,7 @@ will predict future depression symptoms and future ER difficulties
 
     ## 
     ## Call:
-    ## lm(formula = ERQCA.R.T2 ~ ERQCA.R.T1 + as.factor(risk.T1) + Age.T2, 
+    ## lm(formula = ERQCA.R.T2 ~ ERQCA.R.T1 + risk.T1 + Age.T2, 
     ##     data = lag_data)
     ## 
     ## Residuals:
@@ -180,7 +173,7 @@ will predict future depression symptoms and future ER difficulties
     ##                     Estimate Std. Error t value Pr(>|t|)    
     ## (Intercept)          3.73045    0.75709   4.927 8.29e-06 ***
     ## ERQCA.R.T1           0.18604    0.11012   1.689 0.096915 .  
-    ## as.factor(risk.T1)1 -1.09882    0.30740  -3.575 0.000749 ***
+    ## risk.T1             -1.09882    0.30740  -3.575 0.000749 ***
     ## Age.T2               0.04345    0.04246   1.023 0.310667    
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
