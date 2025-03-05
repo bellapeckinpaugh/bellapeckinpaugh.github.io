@@ -1,3 +1,9 @@
+---
+permalink: /SAS25Analyses
+title: "SAS 2025 Analyses"
+author_profile: TRUE
+---
+
 # Model 1
 
 ## *(H1) High-risk offspring will have greater symptoms of depression*
@@ -84,11 +90,6 @@
 <br>
 
 ## The relationship between risk and reappraisal was significant up until age 12.
-
-    ## Registered S3 methods overwritten by 'broom':
-    ##   method            from  
-    ##   tidy.glht         jtools
-    ##   tidy.summary.glht jtools
 
 ![](/images/unnamed-chunk-5-1.png)
 
