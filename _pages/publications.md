@@ -6,7 +6,7 @@ author_profile: true
 published: true
 ---
 
-Click on [this link](https://scholar.google.com/citations?user=p6of5nwAAAAJ&hl=en) to see my publications on google scholar. You can also find more information below.
+_Click on [this link](https://scholar.google.com/citations?user=p6of5nwAAAAJ&hl=en) to see my publications on google scholar. You can also find more information below._
 <br>
 <br>
 # Under Review
