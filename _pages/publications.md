@@ -1,12 +1,14 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 published: true
 ---
 
 Click on [this link](https://scholar.google.com/citations?user=p6of5nwAAAAJ&hl=en) to see my publications on google scholar. You can also find more information below.
+<br>
+<br>
 # Under Review
 ## 1. Intergenerational transmission of valence bias is moderated by attachment <br>
 A Humphries`*`, **I Peckinpaugh**`*`, G Kupka, JR Blair, N Tottenham, M Neta   
