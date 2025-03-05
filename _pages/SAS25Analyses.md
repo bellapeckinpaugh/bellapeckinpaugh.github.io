@@ -1,5 +1,5 @@
 ---
-permalink: /SAS25Analyses
+permalink: /SAS25
 title: "SAS 2025 Analyses"
 author_profile: TRUE
 ---
