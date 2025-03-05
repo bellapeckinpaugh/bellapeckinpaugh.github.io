@@ -17,8 +17,8 @@ A Humphries`*`, **I Peckinpaugh**`*`, G Kupka, JR Blair, N Tottenham, M Neta
 ## [1. Negative Emotion (dys)regulation Predicts Distorted Time Perception: Preliminary Experimental Evidence and Implications for Psychopathology](https://onlinelibrary.wiley.com/doi/full/10.1111/jopy.12988)
 SC Napolitano, **IK Peckinpaugh**, SP Lane <br>
 _Journal of Personality_ <br>
-**Abstract** <br>
-<p1 style='font-size:30vw'>**_Objective_**</p1> <br>
+
+**_Objective_** <br>
 Accurate time perception is crucial to daily life but vulnerable to interference, particularly through negative affect, which dilates individuals' sense of time passing. Regulation strategies like rumination, and disorders like borderline personality disorder (BPD), are linked to time distortion, yet their interrelationships remain untested. We investigated whether rumination and BPD symptoms increase time dilation in negative affective states to understand the clinical implications of time distortion. <br>
   **_Methods_** <br>
 In an online pilot study, we tested whether negative affect (NA) predicts subjective time perception and explored how rumination, BPD symptoms, and their interaction predicted time perception using a between-subjects online experimental mood induction. Adult participants (Ncombined = 760) were recruited from Prolific Academic and a large, Midwestern U.S. university. <br>
@@ -32,8 +32,8 @@ Findings offer foundational evidence of NA and rumination's roles in time dilati
 
 ## [1. Perceived social support attenuates increased hostile reactions to traumatic threat](https://onlinelibrary.wiley.com/doi/abs/10.1002/jclp.23567) <br>
 SC Napolitano, CE Balling, **I Peckinpaugh**, DB Samuel, SP Lane <br>
-_Journal of Clinical Psychology_
-**Abstract** <br>
+_Journal of Clinical Psychology_ <br>
+
 **_Objective_** <br>
 Extant literature has seldom examined the naturalistic role of reaction to threat on downstream emotional distress while also considering buffers, such as perceived social support, to acute negative mental health outcomes. The present study examined how trauma symptoms, in reaction to a global stressor, predicted increased psychological distress via elevated emotional hostility and whether perceived social support modified such effects. We predicted a priori that increased exposure to trauma would be associated with increased hostility and global psychological distress, but that this path would be attenuated by greater levels of perceived social support, as individuals who report greater support exhibit greater emotional coping.<br>
 **_Methods_** <br>
