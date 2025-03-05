@@ -8,8 +8,7 @@ author_profile: TRUE
 
 ## *(H1) High-risk offspring will have greater symptoms of depression*
 
-    ## Linear mixed model fit by REML. t-tests use Satterthwaite's method [
-    ## lmerModLmerTest]
+    ## Linear mixed model fit by REML. t-tests use Satterthwaite's method [lmerModLmerTest]
     ## Formula: RCADS.MD ~ risk_dummy + Age_kid + sex_dummy + (1 | kID)
     ##    Data: long_data
     ## 
@@ -44,8 +43,7 @@ author_profile: TRUE
 
 ## *(H2) High-risk offspring will have worse reappraisal habits and (H4; exploratory) age will moderate this relationship*
 
-    ## Linear mixed model fit by REML. t-tests use Satterthwaite's method [
-    ## lmerModLmerTest]
+    ## Linear mixed model fit by REML. t-tests use Satterthwaite's method [lmerModLmerTest]
     ## Formula: ERQCA.R ~ risk_dummy * Age_kid + sex_dummy + (1 |      kID)
     ##    Data: long_data
     ## 
@@ -91,8 +89,7 @@ author_profile: TRUE
 
 ## *(H3) Worse reappraisal habits will predict greater depression symptoms and (H5; exploratory) age will moderate this relationship*
 
-    ## Linear mixed model fit by REML. t-tests use Satterthwaite's method [
-    ## lmerModLmerTest]
+    ## Linear mixed model fit by REML. t-tests use Satterthwaite's method [lmerModLmerTest]
     ## Formula: RCADS.MD ~ Age_kid * ERQCA.R + sex_dummy + (1 | kID)
     ##    Data: long_data
     ## 
@@ -162,8 +159,7 @@ will predict future depression symptoms and future ER difficulties
 
     ## 
     ## Call:
-    ## lm(formula = ERQCA.R.T2 ~ ERQCA.R.T1 + risk.T1 + Age.T2, 
-    ##     data = lag_data)
+    ## lm(formula = ERQCA.R.T2 ~ ERQCA.R.T1 + risk.T1 + Age.T2, data = lag_data)
     ## 
     ## Residuals:
     ##     Min      1Q  Median      3Q     Max 
