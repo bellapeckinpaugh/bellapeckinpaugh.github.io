@@ -80,7 +80,7 @@
 
 ## High-risk offspring reported worse reappraisal habits than low-risk individuals up until 15 years of age.
 
-![](SAS25Analyses_files/figure-markdown_strict/unnamed-chunk-4-1.png)
+![](/images/unnamed-chunk-4-1.png)
 <br>
 
 ## The relationship between risk and reappraisal was significant up until age 12.
@@ -90,7 +90,7 @@
     ##   tidy.glht         jtools
     ##   tidy.summary.glht jtools
 
-![](SAS25Analyses_files/figure-markdown_strict/unnamed-chunk-5-1.png)
+![](/images/unnamed-chunk-5-1.png)
 
 # Model 3
 
@@ -132,7 +132,7 @@
 
 ## The relationship between reappraisal habits and depression symptoms was significant after age 12
 
-![](SAS25Analyses_files/figure-markdown_strict/unnamed-chunk-7-1.png)
+![](/images/unnamed-chunk-7-1.png)
 
 # Model 4
 
