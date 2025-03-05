@@ -9,7 +9,8 @@ author_profile: TRUE
 ## *(H1) High-risk offspring will have greater symptoms of depression*
 
  <img src= '/images/model1.png' width="100%">
-  <br>
+ 
+ <br>
 
 # Model 2
 
@@ -32,7 +33,7 @@ author_profile: TRUE
 ## *(H3) Worse reappraisal habits will predict greater depression symptoms and (H5; exploratory) age will moderate this relationship*
 
  <img src= '/images/model3.png' width="100%">
-     <br>
+ <br>
 
 ## The relationship between reappraisal habits and depression symptoms was significant after age 12
 
