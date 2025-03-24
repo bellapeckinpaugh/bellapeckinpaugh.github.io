@@ -21,4 +21,6 @@ March 24, 2025
 
 ## Society for Affective Science
 
-<p align="center"><img src='/images/Peckinpaugh_SAS25.jpg' width="50%"> 
+<p align="left"><img src='/images/Peckinpaugh_SAS25.jpg' width="50%"> <br>
+  Contact me for access to the supplementary materials!
+  
