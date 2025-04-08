@@ -1,3 +1,9 @@
+---
+permalink: /Motivation25
+title: "UNL Motivation Symposium Supplemental Materials"
+author_profile: TRUE
+---
+
 Click
 [here](https://osf.io/549kd/?view_only=042eb855e1ca4e1782c826e0ee58642b)
 for the preregistration.
