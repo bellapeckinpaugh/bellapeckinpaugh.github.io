@@ -16,9 +16,9 @@ Thank you for visiting! I last updated this page September, 9, 2025.
 <br>
 <br>
 
-# 2025 <br>
+# 2025 
 
-## Society for Affective Science <br>
+## Society for Affective Science 
 
 <p align="left"><img src='/images/Peckinpaugh_SAS25.jpg' width="100%"> <br>
 Contact me for access to the supplementary materials!
@@ -28,25 +28,22 @@ Contact me for access to the supplementary materials!
 <p align="left"><img src='/images/Humphries_SAS25.jpg' width="100%"> <br>
 
 <br>
-  
-## Nebraska Motivation Symposium <br>
+
+## Nebraska Motivation Symposium 
 
 <p align="left"><img src='/images/Motivation_Symposium_Final.jpg' width="100%"> <br>
-<br>
-<br>
-<br>
-  
+
 <br>
   
 # 2024 <br>
 
-## Midwestern Psychological Association <br>
+## Midwestern Psychological Association 
 
 <p align="left"><img src='/images/MPA24.jpg' width="100%"> <br>
 
 <br>
 
-## Purdue Undergraduate Psychology Research Conference <br>
+## Purdue Undergraduate Psychology Research Conference 
 
 <p align="left"><img src='/images/RFHP24.jpg' width="100%"> <br>
 
