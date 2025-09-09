@@ -20,7 +20,7 @@ Thank you for visiting! I last updated this page September, 9, 2025.
 
 ## Society for Affective Science 
 
-<p align="left"><img src='/images/Peckinpaugh_SAS25.jpg' width="100%"> <br>
+<p align="left"><img src='/images/Peckinpaugh_SAS25.jpg' width="100%"> </p> <br>
 Contact me for access to the supplementary materials!
 <br>
 <br>
