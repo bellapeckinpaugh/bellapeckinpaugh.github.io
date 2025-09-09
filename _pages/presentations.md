@@ -25,13 +25,13 @@ Contact me for access to the supplementary materials!
 <br>
 <br>
 <br>
-<p align="left"><img src='/images/Humphries_SAS25.jpg' width="100%"> <br>
+<p align="left"><img src='/images/Humphries_SAS25.jpg' width="100%"> </p> <br>
 
 <br>
 
 ## Nebraska Motivation Symposium 
 
-<p align="left"><img src='/images/Motivation_Symposium_Final.jpg' width="100%"> <br>
+<p align="left"><img src='/images/Motivation_Symposium_Final.jpg' width="100%"> </p> <br>
 
 <br>
   
@@ -39,13 +39,13 @@ Contact me for access to the supplementary materials!
 
 ## Midwestern Psychological Association 
 
-<p align="left"><img src='/images/MPA24.jpg' width="100%"> <br>
+<p align="left"><img src='/images/MPA24.jpg' width="100%"> </p> <br>
 
 <br>
 
 ## Purdue Undergraduate Psychology Research Conference 
 
-<p align="left"><img src='/images/RFHP24.jpg' width="100%"> <br>
+<p align="left"><img src='/images/RFHP24.jpg' width="100%"> </p> <br>
 
 
 Contact me for access to older presentations.
