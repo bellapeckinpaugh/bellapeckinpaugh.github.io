@@ -27,6 +27,7 @@ Contact me for access to the supplementary materials!
 <br>
 <p align="left"><img src='/images/Humphries_SAS25.jpg' width="100%"> <br>
 
+<br>
   
 ## Nebraska Motivation Symposium
 
@@ -34,6 +35,7 @@ Contact me for access to the supplementary materials!
 <br>
 <br>
 <br>
+  
 <br>
   
 # 2024
