@@ -24,7 +24,7 @@ March 24, 2025
 
 <p align="left"><img src='/images/Peckinpaugh_SAS25.jpg' width="100%"> <br>
 
-<p align="left"><img src='/images/Humphries_SAS25.jpeg' width="100%"> <br>
+<p align="left"><img src='/images/Humphries_SAS25.jpg' width="100%"> <br>
   
   Contact me for access to the supplementary materials!
   
