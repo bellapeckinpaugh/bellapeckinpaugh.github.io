@@ -26,16 +26,23 @@ Contact me for access to the supplementary materials!
 <br>
 <br>
 <p align="left"><img src='/images/Humphries_SAS25.jpg' width="100%"> <br>
+
   
 ## Nebraska Motivation Symposium
 
 <p align="left"><img src='/images/Motivation_Symposium_Final.jpg' width="100%"> <br>
-
+<br>
+<br>
+<br>
+<br>
+  
 # 2024
 
 ## Midwestern Psychological Association
 
 <p align="left"><img src='/images/MPA24.jpg' width="100%"> <br>
+
+<br>
 
 ## Purdue Undergraduate Psychology Research Conference
 
