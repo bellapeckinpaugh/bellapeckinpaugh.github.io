@@ -9,12 +9,10 @@ redirect_from:
 ---
 
 
-Thank you for visiting! I am still creating my website, and have not yet finished this page. To learn more about my presentations, please reach out to my email. In the meantime, see below for what I have uploaded so far!
-
-Stay tuned!!!
+Thank you for visiting! I last updated this page September, 9, 2025.
 
 ~Bella <br>
-March 24, 2025
+
 <br>
 <br>
 
@@ -32,4 +30,17 @@ Contact me for access to the supplementary materials!
 ## Nebraska Motivation Symposium
 
 <p align="left"><img src='/images/Motivation_Symposium_Final.jpg' width="100%"> <br>
+
+# 2024
+
+## Midwestern Psychological Association
+
+<p align="left"><img src='/images/MPA24.jpg' width="100%"> <br>
+
+## Purdue Undergraduate Psychology Research Conference
+
+<p align="left"><img src='/images/RFHP24.jpg' width="100%"> <br>
+
+
+Contact me for access to older presentations.
 
