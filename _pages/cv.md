@@ -1,10 +1,10 @@
 ---
-layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /CV/
+menu: main
 author_profile: true
 redirect_from:
-  - /resume
+  - /CV/
 ---
 
 
