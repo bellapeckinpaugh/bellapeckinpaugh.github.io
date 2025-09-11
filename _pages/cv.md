@@ -4,6 +4,7 @@ title: ""
 permalink: /CV/
 author_profile: true
 published: true
+menu: main
 ---
 
 
