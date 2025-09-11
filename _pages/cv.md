@@ -11,4 +11,3 @@ redirect_from:
 Click [here](/images/Peckinpaugh_CV_9_08_25.pdf) to download my CV! 
 
 
-<p align="left"><img src='/images/Peckinpaugh_CV_9_08_25.pdf' width="100%"> </p> 
