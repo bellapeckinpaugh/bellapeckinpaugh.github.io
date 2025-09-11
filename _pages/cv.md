@@ -1,10 +1,9 @@
 ---
-title: "CV"
+layout: archive
+title: ""
 permalink: /CV/
-menu: main
 author_profile: true
-redirect_from:
-  - /CV/
+published: true
 ---
 
 
