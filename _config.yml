@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Isabella (Bella) Peckinpaugh"
-description              : &description "Lab Manager for the Cognitive and Affective Neuroscience Lab @ UNL"
+description              : &description "Lab Manager for the Cognitive and Affective Neuroscience Lab @ UNL and incoming Clinical Psychology Phd Student @ Harvard"
 url                      : https://bellapeckinpaugh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bellapeckinpaugh/bellapeckinpaugh.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "bpeckinpaughlabphoto.jpeg"
   name             : "Isabella (Bella) Peckinpaugh"
   pronouns         : # example: "she/her"  
-  bio              : "Clinical psychology researcher examining depression transmission"
+  bio              : "Clinical psychology researcher examining emotion regulation and psychopathology across development"
   location         : "Lincoln, NE"
   employer         : "University of Nebraska-Lincoln"
   uri              : https://canlab.unl.edu
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : bella-peckinpaugh.bsky.social # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
