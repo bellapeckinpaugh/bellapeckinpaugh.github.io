@@ -28,7 +28,7 @@ author:
   bio              : "Clinical psychology researcher examining emotion regulation and psychopathology across development"
   location         : "Lincoln, NE"
   employer         : "University of Nebraska-Lincoln"
-  uri              : https://canlab.unl.edu
+  uri              : # https://canlab.unl.edu
   email            : "ipeckinpaugh2@unl.edu" 
 
   # Academic websites
