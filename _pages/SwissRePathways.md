@@ -1,7 +1,7 @@
 ---
 title: ""
 permalink: /SwissRePathways/
-author_profile: false
+author_profile: true
 published: true
 menu: main
 ---
