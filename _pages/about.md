@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-<img src='/images/purduelogo.jpeg' width="30%">  <img src='/images/unllogo.png' width="30%"> <img src='/images/gsas-logo.png' width="30%">
+<img src='/images/purduelogo.jpeg' width="20%">  <img src='/images/unllogo.png' width="20%"> <img src='/images/gsas-logo.png' width="50%">
 </p>
 
 Welcome, I am Bella! I am currently a Lab Manager in Maital Neta's [Cognitive and Affective Neuroscience Lab](https://canlab.unl.edu/) and a Research Specialist for an NIH-funded grant (CO-PIs Dr. Tim Nelson & Dr. Maital Neta) at the University of Nebraska-Lincoln. I graduated with a B.S. in Psychology from Purdue University. While at Purdue, I was in Dan Foti's [Psychophysiological Analysis of Cognition, Emotion, and Reward Lab](https://www.pacer-lab.com/) and Sean Lane's [Regulation of Emotion, Addiction, and Conflict Trajectory Lab](https://reactlab.wixsite.com/reactlab)! 
