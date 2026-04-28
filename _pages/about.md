@@ -24,6 +24,6 @@ I am passionate about research that can lead to downstream treatment options. I 
 <br>
 <br>
 
-In my free time I love to read, bake, go for walks, and take care of my plants. I've added some pictures of my plants below 😊
+In my free time I love to read, bake, go for walks, and take care of my plants. I've added some pictures of my plants and sourdough creations below 😊
 
-<img src='/images/pothos1.jpg' width="20%">  <img src='/images/succulent1.jpg' width="20%">  <img src='/images/philodendron1.jpg' width="20%">   <img src='/images/succulent2.jpg' width="30%">
+<img src='/images/pothos1.jpg' width="20%">  <img src='/images/succulent1.jpg' width="20%">  <img src='/images/philodendron1.jpg' width="20%">   <img src='/images/succulent2.jpg' width="30%"> <img src='/images/thanksgiving_cactus.jpg' width="20%"> <img src='/images/bagel1.jpg' width="20%"> <img src='/images/bagel2.jpg' width="20%"> <img src='/images/cheesechive_bread.jpg' width="20%">
