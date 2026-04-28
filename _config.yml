@@ -26,8 +26,8 @@ author:
   name             : "Isabella (Bella) Peckinpaugh"
   pronouns         : # example: "she/her"  
   bio              : "Clinical psychology researcher"
-  location         : "Lincoln, NE"
-  employer         : "University of Nebraska-Lincoln"
+  location         : # "Lincoln, NE"
+  employer         : "University of Nebraska"
   uri              : # https://canlab.unl.edu
   email            : "ipeckinpaugh2@unl.edu" 
 
