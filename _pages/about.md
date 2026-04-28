@@ -19,7 +19,7 @@ I am also an incoming Clinical Psychology Phd student at Harvard in Mark Chen's 
 
 <br>
 
-I am passionate about research that can lead to downstream treatment options. I aim to examine how emotion regulation and psychopathology (i.e., depression and anxiety) unfold across development. I am particularly interested in examining how early life adversity such as having a parental history of depression influence these processes.
+I am passionate about research that can lead to downstream treatment options. I aim to examine how emotion regulation and psychopathology (i.e., depression and anxiety) unfold across development. I am particularly interested in examining how early life adversity, such as having a parental history of depression, influences these processes.
 
 <br>
 <br>
