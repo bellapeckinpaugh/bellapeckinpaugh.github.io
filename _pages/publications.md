@@ -10,15 +10,24 @@ _Click on [this link](https://scholar.google.com/citations?user=p6of5nwAAAAJ&hl=
 <br>
 <br>
 
-# Under Review
-## 1. The effect of cognitive-affective processes on performance-based behavioral outcomes <br>
-**IK Peckinpaugh**, SC Napolitano, & D Foti
-
 # In Press
 ## 1. Developmental window during which reappraisal may mitigate intergenerational transmission of depression <br>
 **IK Peckinpaugh**, & M Neta <br>
 _Affective Science_ <br>
 Invited conference long abstract <br>
+<br>
+
+# 2026 Publications
+
+## [1. The effect of state negative affect on post-error performance recovery](https://doi.org/10.1080/02699931.2025.2612077)
+**IK Peckinpaugh**, SC Napolitano, & D Foti <br>
+_Cognition and Emotion_ <br>
+<br>
+
+**_Abstract_** <br>
+Previous studies demonstrate that individuals with major depressive disorder (MDD) exhibit difficulties responding accurately on trials directly after committing an error (Elliot et al., 1996; 1997; Pizzagalli et al., 2006). The current presumption is that heightened negative affect (NA) in response to errors leads to impaired performance monitoring and improvement. However, this pathway has yet to be tested. The current study sought to address this gap, in a nonclinical sample, by examining whether NA and rumination predicted post-error performance. Participants (N = 124) completed a measure of dispositional rumination, repeated state NA measurements, and three Eriksen flanker runs (Nblocks/trials = 27/486). Results indicated that rumination did not significantly predict performance, but rather, elevated state NA predicted worse post-error performance and the likelihood of consecutive errors across the protocol. Critically, these results held even controlling for reaction time, meaning that this post-error difficulty was not solely attributable to post-error slowing or speed-accuracy trade-off. This study provides a novel examination of a pathway through which trial-by-trial deficits may occur and is the first to provide support for the role of NA in post-error difficulties. We suggest that these findings hold implications for cognitive control and support the fundamental role of mood in disrupted cognition.
+
+<br>
 <br>
 
 # 2025 Publications
