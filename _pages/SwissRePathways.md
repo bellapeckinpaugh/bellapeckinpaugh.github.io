@@ -6,9 +6,12 @@ published: true
 menu: main
 ---
 
+# Mental Health Resources
+1. Find a therapist near you with [Psychology Today](https://www.psychologytoday.com/us/therapists/)
+2. If you need immediate help or advice, you can call the [NAMI Helpline](https://www.nami.org/nami-helpline/)
 
-# Getting Involved with Research <br>
-
+# Getting Involved with Research As a Participant <br>
+#### If you want to get involved as a researcher, you can contact me for advice!!
 ### West Lafayette, IN
 1. “Purdue psychology participant registry”
 2. [HHS Registry](https://hhs.purdue.edu/research-registry/participants/)
